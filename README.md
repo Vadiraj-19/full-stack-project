@@ -7,6 +7,4 @@ This repository links to all my major projects:
 - [Avenger Project](https://github.com/Vadiraj-19/Avenger-Project)
 - [Amazon Clone](https://github.com/Vadiraj-19/Amazon-clone)
 - [Main Flow Task 1](https://github.com/Vadiraj-19/main-flow-task_1)
-git add README.md
-git commit -m "Added links to multiple projects"
-git push origin main
+
