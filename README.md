@@ -7,4 +7,4 @@ This repository links to all my major projects:
 - [Avenger Project](https://github.com/Vadiraj-19/Avenger-Project)
 - [Amazon Clone](https://github.com/Vadiraj-19/Amazon-clone)
 - [Main Flow Task 1](https://github.com/Vadiraj-19/main-flow-task_1)
-
+- [student_registration_suite-main](https://github.com/Vadiraj-19/student_registration_suite.git)
